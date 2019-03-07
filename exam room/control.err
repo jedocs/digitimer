@@ -1,0 +1,22 @@
+Warning[2058] C:\Edocs\uC\projects\digitimer\exam room\control.c 199 : call of function without prototype
+Warning[2054] C:\Edocs\uC\projects\digitimer\exam room\control.c 203 : suspicious pointer conversion
+Warning[2054] C:\Edocs\uC\projects\digitimer\exam room\control.c 263 : suspicious pointer conversion
+Warning[2066] C:\Edocs\uC\projects\digitimer\exam room\control.c 267 : type qualifier mismatch in assignment
+Warning[2066] C:\Edocs\uC\projects\digitimer\exam room\control.c 268 : type qualifier mismatch in assignment
+Warning[2066] C:\Edocs\uC\projects\digitimer\exam room\control.c 272 : type qualifier mismatch in assignment
+Warning[2066] C:\Edocs\uC\projects\digitimer\exam room\control.c 273 : type qualifier mismatch in assignment
+Warning[2066] C:\Edocs\uC\projects\digitimer\exam room\control.c 277 : type qualifier mismatch in assignment
+Warning[2066] C:\Edocs\uC\projects\digitimer\exam room\control.c 278 : type qualifier mismatch in assignment
+Warning[2066] C:\Edocs\uC\projects\digitimer\exam room\control.c 284 : type qualifier mismatch in assignment
+Warning[2066] C:\Edocs\uC\projects\digitimer\exam room\control.c 297 : type qualifier mismatch in assignment
+Warning[2066] C:\Edocs\uC\projects\digitimer\exam room\control.c 306 : type qualifier mismatch in assignment
+Warning[2066] C:\Edocs\uC\projects\digitimer\exam room\control.c 314 : type qualifier mismatch in assignment
+Warning[2066] C:\Edocs\uC\projects\digitimer\exam room\control.c 319 : type qualifier mismatch in assignment
+Warning[2066] C:\Edocs\uC\projects\digitimer\exam room\control.c 328 : type qualifier mismatch in assignment
+Warning[2066] C:\Edocs\uC\projects\digitimer\exam room\control.c 343 : type qualifier mismatch in assignment
+Warning[2066] C:\Edocs\uC\projects\digitimer\exam room\control.c 352 : type qualifier mismatch in assignment
+Warning[2054] C:\Edocs\uC\projects\digitimer\exam room\control.c 361 : suspicious pointer conversion
+Warning[2066] C:\Edocs\uC\projects\digitimer\exam room\control.c 366 : type qualifier mismatch in assignment
+Warning[2054] C:\Edocs\uC\projects\digitimer\exam room\control.c 370 : suspicious pointer conversion
+Warning[2066] C:\Edocs\uC\projects\digitimer\exam room\control.c 374 : type qualifier mismatch in assignment
+Warning[2054] C:\Edocs\uC\projects\digitimer\exam room\control.c 378 : suspicious pointer conversion
